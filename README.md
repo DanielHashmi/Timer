@@ -8,7 +8,7 @@ This repository contains a simple, yet effective, timer implemented in JavaScrip
 - Sleek and intuitive user interface.
 
 ## Usage
-To use this timer, simply clone the repository and open `index.html` in your browser.
+To use this timer, simply <a href="https://danielhashmi.github.io/Timer/">Click Here</a>.
 
 We welcome contributions! If you have suggestions for improvements or bug fixes, feel free to make a pull request.
 
